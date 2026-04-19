@@ -1,25 +1,32 @@
 # Async Digital Ltd
 
-**Apple platform engineering for products that need to be fast, stable, and maintainable.**
+**Apple platform engineering, paired with automation services that solve real operational problems.**
 
-Async Digital Ltd is a UK-based software engineering company specialising in native development across Apple platforms.  
-This organisation hosts open-source libraries, tools, and reference implementations maintained by Async Digital.
+Async Digital is a UK-based software company. We build native Apple-platform apps and operate automation services for small businesses that lose revenue to missed communication.
 
-## Focus areas
+## What we do
 
-- iOS, iPadOS, watchOS, and tvOS development  
-- Swift, SwiftUI, UIKit, and Swift Concurrency  
-- Modular architectures and SDK-style frameworks  
-- Reliability, performance, and maintainability  
-- Tooling to support real-world product development
+**Products & services**
+- **Missed-call follow-up** for dental clinics — detects unanswered calls, texts the caller a booking link, and drops confirmed callbacks into the clinic's calendar. No hardware to install.
+- **Audient** — a native iOS app for capturing, transcribing, and searching user-supplied audio.
 
-## About Async Digital
+**Engineering capability**
+- iOS, iPadOS, watchOS, and tvOS
+- Swift, SwiftUI, and Swift Concurrency
+- Modular SPM architectures and SDK-style frameworks
+- On-device transcription, semantic search, and RAG pipelines
+- Reliability, performance, and long-term maintainability
+
+## This organisation on GitHub
+
+Most of our work is private. A small number of public repositories host reference utilities and supporting components we're willing to share.
+
+## About
 
 Async Digital Ltd is a principal-led company providing contracting, consultation, and product development services.
 
-- Website: https://async-digital.com  
-- Location: United Kingdom  
-- Company No. 16950485  
+- Website: https://async-digital.com
+- Location: United Kingdom
+- Company No. 16950485
 
-For enquiries, please contact:  
-**r.nash1@async-digital.com**
+Enquiries: **r.nash1@async-digital.com**
