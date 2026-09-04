@@ -1,7 +1,7 @@
 # Async Digital Ltd
 
-**Async Digital builds software.** A one-person studio testing, in the open,
-what really changes when AI can write the code.
+**Async Digital is a one-person studio testing, in the open, what really
+changes when AI can write the code.**
 
 The claim everywhere right now is that AI replaces the engineer. What we keep
 finding is that it moves the engineer instead: from writing the code, to
