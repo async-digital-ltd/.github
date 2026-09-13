@@ -19,6 +19,11 @@ https://ordova.async-digital.com
 audio and video you give it. On the Mac App Store.
 https://audient.async-digital.com
 
+**Quill** is a command-line tool for macOS that transcribes audio and video
+on-device and writes the words out as markdown. Your audio is not sent
+anywhere. It is open source under the MIT licence.
+https://github.com/async-digital-ltd/quill-cli
+
 **Working notes and case studies.** Everything above gets written up as it
 breaks, including the parts that did not work.
 https://async-digital.com/notes/
@@ -26,8 +31,9 @@ https://async-digital.com/case-studies/
 
 ## This organisation on GitHub
 
-Most of the work is private. The public repositories here are reference
-utilities and supporting components, not the systems described above.
+Most of the work is private. Quill is published here in full as a standalone
+tool. The other public repositories are reference utilities and supporting
+components, not the systems described above.
 
 ## About
 
@@ -37,4 +43,4 @@ Async Digital Ltd is a UK company, principal-led.
 - Location: United Kingdom
 - Company No. 16950485
 
-Enquiries: r.nash1@async-digital.com
+Enquiries: info@async-digital.com
