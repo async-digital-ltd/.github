@@ -19,6 +19,13 @@ on-device and writes the words out as markdown. Your audio is not sent
 anywhere. It is open source under the MIT licence.
 https://github.com/async-digital-ltd/quill-cli
 
+**Seen to Fail** is a small web app that records whether each automated check
+has ever been seen to catch a planted defect, and publishes a ledger of its
+own checks. Coding agents built it under the owner's direction, and the
+repository shows how that work was checked. It is open source under the MIT
+licence.
+https://github.com/async-digital-ltd/seen-to-fail
+
 **Working notes and case studies.** Everything above gets written up as it
 breaks, including the parts that did not work.
 https://async-digital.com/notes/
@@ -26,8 +33,8 @@ https://async-digital.com/case-studies/
 
 ## This organisation on GitHub
 
-Most of the work is private. Quill is published here in full as a standalone
-tool. The other public repositories are reference utilities and supporting
+Most of the work is private. Quill and Seen to Fail are published here in
+full. The other public repositories are Swift packages and supporting
 components, not the systems described above.
 
 ## About
