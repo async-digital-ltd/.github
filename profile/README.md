@@ -1,6 +1,6 @@
 # Async Digital Ltd
 
-**Async Digital is a one-human studio testing, in the open, what really changes when AI can write the code.**
+**Async Digital is a one-human software studio that ships apps, developer tools, and books, built by AI agents under a senior engineer's direction.**
 
 ## The work
 
@@ -25,6 +25,10 @@ own checks. Coding agents built it under the owner's direction, and the
 repository shows how that work was checked. It is open source under the MIT
 licence.
 https://github.com/async-digital-ltd/seen-to-fail
+
+**Mastering the AI Coworker** is a book of principles for running an AI
+coworker in a one-person studio, written from the practice above.
+https://coworker.async-digital.com
 
 **Working notes and case studies.** Everything above gets written up as it
 breaks, including the parts that did not work.
