@@ -1,6 +1,6 @@
 # Async Digital Ltd
 
-**Async Digital is a one-human software studio that ships apps, developer tools, and books, built by AI agents under a senior engineer's direction.**
+**Async Digital is a one-human software studio that ships apps, developer tools, and books, built by AI agents under a lead software developer's direction.**
 
 ## The work
 
