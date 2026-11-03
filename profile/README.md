@@ -1,6 +1,6 @@
 # Async Digital Ltd
 
-**Async Digital is a one-human software studio that ships apps, developer tools, and books, built by AI agents under a lead software developer's direction.**
+**Async Digital Ltd reviews websites and apps against the Welsh Language Standards, and builds bilingual websites, apps, and MCP apps for AI assistants, for organisations that serve the public in Wales. Its director, Rob Nash, is accountable for every project and signs off before anything ships.**
 
 ## The work
 
