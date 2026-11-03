@@ -7,8 +7,8 @@
 **Ordova** is the system the studio runs on. It is an operating system for
 solo software work: session handoff, governed memory, and a guard estate that
 decides which checks are crucial when nobody is reading every line of
-output. It is private, and how it works is documented publicly at
-https://ordova.async-digital.com
+output. It is private. There is a short overview at
+https://async-digital.com/ordova/
 
 **Audient** is a macOS app that uses on-device AI to transcribe and search
 audio and video you give it. On the Mac App Store.
